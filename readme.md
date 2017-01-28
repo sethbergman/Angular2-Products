@@ -1,5 +1,7 @@
 # Angular2-Products
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/Angular2-Products.svg)](https://greenkeeper.io/)
+
 ### Install dependencies
 ```
 npm install
